@@ -1,0 +1,28 @@
+{
+  "Records" : [
+    {
+      "name" : "Vikas" ,
+      "gender" : "Male" ,
+      "age" : "25" ,
+      "country" : "India"
+    },
+    {
+      "name" : "Pankaj" ,
+      "gender" : "Male" ,
+      "age" : "22" ,
+      "country" : "Australia"
+    },
+    {
+      "name" : "Manika" ,
+      "gender" : "Female" ,
+      "age" : "23" ,
+      "country" : "England"
+    },
+    {
+      "name" : "Priyanka" ,
+      "gender" : "Female" ,
+      "age" : "24" ,
+      "country" : "New Zealand"
+    }
+  ]
+}
